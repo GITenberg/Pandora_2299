@@ -1,0 +1,32 @@
+_repo: Pandora_2299
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: It has long been the custom of the North German Lloyd steamers, which
+  convey passengers from Bremen to New York, to anchor for several hours in the pleasant
+  port of Southampton, where their human cargo receives many additions. An intelligent
+  young German, Count Otto Vogelstein, hardly knew a few years ago whether to condemn
+  this custom or approve it. He leaned over the bulwarks of the Donau as the American
+  passengers crossed the plank - the travellers who embark at Southampton are mainly
+  of that nationality - and curiously, indifferently, vaguely, through the smoke of
+  his cigar, saw them absorbed in the huge capacity of the ship, where he had the
+  agreeable consciousness that his own nest was comfortably made.
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Passenger ships -- Fiction'
+- !lcc 'PS'
+title: Pandora
+url: http://www.gutenberg.org/ebooks/2299
