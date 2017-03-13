@@ -1,5 +1,8 @@
 _repo: Pandora_2299
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 2299-h/images/coverb.jpg
 creator:
   author:
     agent_name: James, Henry
@@ -17,6 +20,8 @@ description: It has long been the custom of the North German Lloyd steamers, whi
   of that nationality - and curiously, indifferently, vaguely, through the smoke of
   his cigar, saw them absorbed in the huge capacity of the ship, where he had the
   agreeable consciousness that his own nest was comfortably made.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2299#Pandora
 gutenberg_issued: '2000-08-01'
 gutenberg_type: Text
 identifiers:
