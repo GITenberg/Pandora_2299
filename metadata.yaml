@@ -1,5 +1,5 @@
 _repo: Pandora_2299
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2299-h/images/coverb.jpg
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Man-woman relationships -- Fiction'
 - !lcsh 'Passenger ships -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: Pandora
 url: http://www.gutenberg.org/ebooks/2299
